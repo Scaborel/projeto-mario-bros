@@ -57,8 +57,14 @@ main {
 }
 
 .img-mario-luigi {
-  width: 300px;
-  height: 400px;
+  width: 365px;
+  height: 508px;
+}
+
+.img-servicos {
+  width: 260px;
+  height: 230px;
+  padding: 20px;
 }
 
 .primary-box {
@@ -107,8 +113,6 @@ button:active {
   display: block;
   width: 50%;
   padding: 20px;
-  margin-left: 200px;
-  margin-top: 60px;
 }
 
 .cx-video {
